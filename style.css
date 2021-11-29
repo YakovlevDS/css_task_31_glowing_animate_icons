@@ -17,7 +17,8 @@ body {
 #apple,
 #twitter,
 #github,
-#facebook {
+#facebook,
+#youtube {
   font-size: 8em;
   background-color: #18191f;
   color: #fff;
@@ -39,6 +40,9 @@ body {
   animation-delay: 0.7s;
 }
 #github {
+  animation-delay: 0.1s;
+}
+#youtube {
   animation-delay: 0.1s;
 }
 
